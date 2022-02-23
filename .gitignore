@@ -1,0 +1,7 @@
+*.a
+*.so
+build
+compile_commands.json
+compile_commands.commands.json
+.vscode
+.vimrc
